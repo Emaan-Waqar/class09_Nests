@@ -1,5 +1,5 @@
 print("Ride options: ")
-print("1. Bike")
+print("1. Bike")  
 print("2. Car")
 
 choice = int(input("Enter your preference: "))
