@@ -20,7 +20,7 @@ elif choice == 2:
     print("3. SUV")
     choice3 = int(input("Enter the type of car: "))
     if choice3 ==1:
-        print("You have selected sedan")
+        print("You have selected sedan.")
     elif choice3 ==2:
         print("You have selected hatchback")
     else: 
